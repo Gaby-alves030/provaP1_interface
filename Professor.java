@@ -16,11 +16,11 @@ public class Professor extends Pessoa {
     public void setCpf(String cpf) {
         this.cpf = cpf;
     }
-    public String getMateria() {
+    public String getDisciplina() {
         return disciplina;
     }
-    public void setMateria(String materia) {
-        this.disciplina = materia;
+    public void setDisciplina(String materia) {
+        this.disciplina = disciplina;
     }
 
 }
